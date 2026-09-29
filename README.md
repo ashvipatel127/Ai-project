@@ -130,7 +130,7 @@ Source: sample_syllabus.pdf (Page 1)
 Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone (https://github.com/ashvipatel127/Ai-project)
 cd Ai-project
 ```
 
